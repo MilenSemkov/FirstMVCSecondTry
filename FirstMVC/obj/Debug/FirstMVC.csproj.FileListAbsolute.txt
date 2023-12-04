@@ -1,0 +1,8 @@
+C:\11d Milen\FirstMVC\FirstMVC\bin\Debug\FirstMVC.exe.config
+C:\11d Milen\FirstMVC\FirstMVC\bin\Debug\FirstMVC.exe
+C:\11d Milen\FirstMVC\FirstMVC\bin\Debug\FirstMVC.pdb
+C:\11d Milen\FirstMVC\FirstMVC\obj\Debug\FirstMVC.csproj.AssemblyReference.cache
+C:\11d Milen\FirstMVC\FirstMVC\obj\Debug\FirstMVC.csproj.SuggestedBindingRedirects.cache
+C:\11d Milen\FirstMVC\FirstMVC\obj\Debug\FirstMVC.csproj.CoreCompileInputs.cache
+C:\11d Milen\FirstMVC\FirstMVC\obj\Debug\FirstMVC.exe
+C:\11d Milen\FirstMVC\FirstMVC\obj\Debug\FirstMVC.pdb
